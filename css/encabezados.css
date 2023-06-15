@@ -1,0 +1,12 @@
+/*documento css*/
+
+body { background-color: pink; }
+
+h1, h3, h5 { color:blueviolet; }
+            { text-transform:uppercase; } 
+p { line-height_1.5; 
+    font-size: 1.4em; }
+
+h2, h4, h6 { color: green; }
+
+
